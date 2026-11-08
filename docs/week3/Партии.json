@@ -1,0 +1,57 @@
+[
+  {
+    "batch": 1,
+    "document": "000000001",
+    "date": "08.11.2026 13:30:02",
+    "quantity": 10,
+    "applicationId": "b4f0bd81-fcdc-4168-a866-48775a59cf09",
+    "stockGuid": "83db6013-4517-4c0f-8ac2-a73418e71b2e",
+    "stockUuid": "6d08ace4-7d06-4fd4-aa5d-4060dd6bea82",
+    "certificateUuid": "3fbf4a2f-9e5b-4b67-92cb-915f8e835f7d",
+    "status": "COMPLETED"
+  },
+  {
+    "batch": 2,
+    "document": "000000002",
+    "date": "08.11.2026 13:30:05",
+    "quantity": 20,
+    "applicationId": "0c8a6e02-a475-439f-9813-9f395736125d",
+    "stockGuid": "cf38307f-e193-441f-8c3d-3f545dc2e4de",
+    "stockUuid": "6495cd70-ecce-4340-b7fc-2ef146c9ae33",
+    "certificateUuid": "84fbdd8e-1881-43fa-beec-1fe5e066a0da",
+    "status": "COMPLETED"
+  },
+  {
+    "batch": 3,
+    "document": "000000003",
+    "date": "08.11.2026 13:33:05",
+    "quantity": 30,
+    "applicationId": "15861367-f72f-4517-b208-473ee2bb03a4",
+    "stockGuid": "d617c380-6988-4444-9b1b-fa6d1fc8f66e",
+    "stockUuid": "5925c1e6-2e5d-49f0-ab40-769200ba025d",
+    "certificateUuid": "d04910f6-6e8b-4d2c-8799-66c5a22783ef",
+    "status": "COMPLETED"
+  },
+  {
+    "batch": 4,
+    "document": "000000004",
+    "date": "08.11.2026 13:38:41",
+    "quantity": 40,
+    "applicationId": "173935e9-ebf9-4fe1-a573-f04dea6e8674",
+    "stockGuid": "ccdd0667-f6c3-4843-a858-d9923fa4c15b",
+    "stockUuid": "d6a36fcc-359f-4487-9768-befdb43ae987",
+    "certificateUuid": "7c9f4064-f569-4b22-a31c-fd358a51a1ad",
+    "status": "COMPLETED"
+  },
+  {
+    "batch": 5,
+    "document": "000000005",
+    "date": "08.11.2026 13:39:19",
+    "quantity": 50,
+    "applicationId": "88ec1f29-8052-4800-9357-72ae00c12b13",
+    "stockGuid": "c74d9653-3c66-4b67-b7e4-3c4122ffde43",
+    "stockUuid": "e09523b8-1ce4-4106-a7e2-62ecc50fc59e",
+    "certificateUuid": "2b33fe19-7c40-458a-949d-07cf19b9259c",
+    "status": "COMPLETED"
+  }
+]

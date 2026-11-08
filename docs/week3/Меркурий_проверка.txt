@@ -1,0 +1,6 @@
+PASS партия 1: 10 шт.; ApplicationID=b4f0bd81-fcdc-4168-a866-48775a59cf09; StockGUID=83db6013-4517-4c0f-8ac2-a73418e71b2e; ВСД=3fbf4a2f-9e5b-4b67-92cb-915f8e835f7d
+PASS партия 2: 20 шт.; ApplicationID=0c8a6e02-a475-439f-9813-9f395736125d; StockGUID=cf38307f-e193-441f-8c3d-3f545dc2e4de; ВСД=84fbdd8e-1881-43fa-beec-1fe5e066a0da
+PASS партия 3: 30 шт.; ApplicationID=15861367-f72f-4517-b208-473ee2bb03a4; StockGUID=d617c380-6988-4444-9b1b-fa6d1fc8f66e; ВСД=d04910f6-6e8b-4d2c-8799-66c5a22783ef
+PASS партия 4: 40 шт.; ApplicationID=173935e9-ebf9-4fe1-a573-f04dea6e8674; StockGUID=ccdd0667-f6c3-4843-a858-d9923fa4c15b; ВСД=7c9f4064-f569-4b22-a31c-fd358a51a1ad
+PASS партия 5: 50 шт.; ApplicationID=88ec1f29-8052-4800-9357-72ae00c12b13; StockGUID=c74d9653-3c66-4b67-b7e4-3c4122ffde43; ВСД=2b33fe19-7c40-458a-949d-07cf19b9259c
+SUCCESS: 5 проведённых документов, 5 завершённых заявок, 5 партий и ВСД, 150 шт.
